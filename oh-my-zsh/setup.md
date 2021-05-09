@@ -1,7 +1,9 @@
 * Install ZSH
     * apt install zsh
-* Oh My Zsh
+* Install Oh My Zsh
     * curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh; zsh
+ * change the shell to ZSH
+    * chsh -s $(which zsh)
 
 ### Add utilities to OMZ:
 
